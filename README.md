@@ -30,8 +30,10 @@ Gif voor werking:
 
 ![MedalTVUnity20251128105411766-1764323730-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1b863e6a-f6bb-4aea-a736-e42e0d8476bd)
 
-#
+<br>
+<br>
 # Game Concept Peggle  
+<br>
 
 ## Titel: Spaceracer
 ## Genre: Space, Peggle
@@ -43,10 +45,9 @@ Gif voor werking:
 ## De balletjes gaan ook soms achter elkaar vliegen voor een paar seconde zodat je de ultimate move kan gebruiken (lees beneden)
 ## Er zijn meerdere waves en een "ultimate bar" waar je een sterke laser doet die wijder is dan de normale laser, dus als je de vijanden goed aligned kan je de hele wave verslaan in 1 laser.
 
-
-
-# Gameplaykern  
-
+<br>
+# Gameplaykern
+<br>
 
 ## Bal: Een gloeiende cylinder die een laser hoort te zijn.
 ## Targets / Bumps: Balletjes met kleine oortjes en een mond (met colliders)
@@ -54,23 +55,26 @@ Gif voor werking:
 ## Doel: Zorg dat de vijanden niet de player raken en dat de vijanden allemaal weg zijn.
 
 
-
+<br>
 # Stijl en sfeer  
-
+<br>
 
 ## Ruimte achtergrond met sterretjes, spannend muziek en laser geluiden met een "splat" sound wanneer je een vijand verslaat.
 
+<br>
 # Structuur van het level  
-
+<br>
 
 ## Bovenaan: De vijanden die langzaam naar beneden gaan.
 ## Midden: Een lege ruimte waar de vijanden naartoe gaat als je te lang doet met het verslaan.
 ## Onderaan: De player en een "mothership" waar de player oorsprongelijk uitging om te vechten.
 
+<br>
 # Wekelijkse voortgang en reflectie  
+<br>
 
 ## Hier noteer ik wat ik heb gemaakt over de weken.
 
-
+<br>
 # Week 1:  
-
+<br>
