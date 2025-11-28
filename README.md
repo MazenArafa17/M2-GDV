@@ -5,7 +5,6 @@
 ## Hier moest ik leren hoe arrays werken en 1 of alle namen laten zien met een knopje.
 
 Link to script:
-<<<<<<< HEAD
 [OnlyScript](./Opdracht1A/Program.cs)\
 
 Gif voor werking:
