@@ -76,6 +76,11 @@ Gif voor werking:
 
 ### Hier noteer ik wat ik heb gemaakt over de weken.
 
+<br>
+
+# Levelschets
+
+<img width="1152" height="648" alt="image" src="https://github.com/user-attachments/assets/67d666d3-1330-409f-82eb-a37303a748ee" />
 
 # Week 1:  
 
