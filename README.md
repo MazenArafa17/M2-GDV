@@ -30,7 +30,7 @@ Gif voor werking:
 
 ![MedalTVUnity20251128105411766-1764323730-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1b863e6a-f6bb-4aea-a736-e42e0d8476bd)
 
-
+#
 # Game Concept Peggle
 
 ## Titel: Spaceracer
@@ -46,7 +46,7 @@ Gif voor werking:
 
 #
 # Gameplaykern
-
+#
 
 ## Bal: Een gloeiende cylinder die een laser hoort te zijn.
 ## Targets / Bumps: Balletjes met kleine oortjes en een mond (met colliders)
@@ -56,9 +56,12 @@ Gif voor werking:
 
 #
 # Stijl en sfeer
+#
 
 ## Ruimte achtergrond met sterretjes, spannend muziek en laser geluiden met een "splat" sound wanneer je een vijand verslaat.
 
+#
+#
 # Structuur van het level
 #
 
@@ -66,9 +69,11 @@ Gif voor werking:
 ## Midden: Een lege ruimte waar de vijanden naartoe gaat als je te lang doet met het verslaan.
 ## Onderaan: De player en een "mothership" waar de player oorsprongelijk uitging om te vechten.
 
+#
+#
 # Wekelijkse voortgang en reflectie
 
-#
+##
 ## Hier noteer ik wat ik heb gemaakt over de weken.
 
 
