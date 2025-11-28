@@ -6,7 +6,11 @@
 
 Link to script:
 <<<<<<< HEAD
-[OnlyScript](./Opdracht1A/Program.cs)
+[OnlyScript](./Opdracht1A/Program.cs)\
+
+Gif voor werking:
+
+![MedalTVUnity20251128092801019-1764318520-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/10a61d06-1366-479b-86de-8aacb2634828)
 
 # Opdracht 2.1 Forces & Collision
 
@@ -17,9 +21,13 @@ Link to script:
 [BoxSpin](Opdracht2.1/BoxSpin.cs)
 [ShootBall](Opdracht2.1/ShootBall.cs)
 =======
-[Program.cs](./Opdracht%201-A%20Array/Program.cs)
 
 Gif voor werking:
 
-![MedalTVUnity20251128092801019-1764318520-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/10a61d06-1366-479b-86de-8aacb2634828)
->>>>>>> eea6029440f217ae2585da5a37fdc3b8dc79380a
+![MedalTVUnity20251128105411766-1764323730-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1b863e6a-f6bb-4aea-a736-e42e0d8476bd)
+
+
+# Game Concept Peggle
+
+## ja idk yet lmao
+
