@@ -44,7 +44,7 @@ Gif voor werking:
 ## Er zijn meerdere waves en een "ultimate bar" waar je een sterke laser doet die wijder is dan de normale laser, dus als je de vijanden goed aligned kan je de hele wave verslaan in 1 laser.
 
 
-
+#
 # Gameplaykern
 
 
@@ -54,13 +54,13 @@ Gif voor werking:
 ## Doel: Zorg dat de vijanden niet de player raken en dat de vijanden allemaal weg zijn.
 
 
-
+#
 # Stijl en sfeer
 
 ## Ruimte achtergrond met sterretjes, spannend muziek en laser geluiden met een "splat" sound wanneer je een vijand verslaat.
 
 # Structuur van het level
-
+#
 
 ## Bovenaan: De vijanden die langzaam naar beneden gaan.
 ## Midden: Een lege ruimte waar de vijanden naartoe gaat als je te lang doet met het verslaan.
@@ -68,7 +68,7 @@ Gif voor werking:
 
 # Wekelijkse voortgang en reflectie
 
-
+#
 ## Hier noteer ik wat ik heb gemaakt over de weken.
 
 
