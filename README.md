@@ -32,49 +32,50 @@ Gif voor werking:
 
 <br>
 <br>
+
 # Game Concept Peggle  
+
+### Titel: Spaceracer
+### Genre: Space, Peggle
+
 <br>
 
-## Titel: Spaceracer
-## Genre: Space, Peggle
-
-## Beschrijving:  
+# Beschrijving:  
 
 ### De player schiet met cylinders (lasers) naar allerlei bewegende balletjes die lijken op kleine vijanden.
-## De balletjes gaan langzaam dichtbij de player komen en als ze de player raken is het gameover.
-## De balletjes gaan ook soms achter elkaar vliegen voor een paar seconde zodat je de ultimate move kan gebruiken (lees beneden)
-## Er zijn meerdere waves en een "ultimate bar" waar je een sterke laser doet die wijder is dan de normale laser, dus als je de vijanden goed aligned kan je de hele wave verslaan in 1 laser.
+### De balletjes gaan langzaam dichtbij de player komen en als ze de player raken is het gameover.
+### De balletjes gaan ook soms achter elkaar vliegen voor een paar seconde zodat je de ultimate move kan gebruiken (lees beneden)
+### Er zijn meerdere waves en een "ultimate bar" waar je een sterke laser doet die wijder is dan de normale laser, dus als je de vijanden goed aligned kan je de hele wave verslaan in 1 laser.
 
 <br>
+
 # Gameplaykern
-<br>
 
-## Bal: Een gloeiende cylinder die een laser hoort te zijn.
-## Targets / Bumps: Balletjes met kleine oortjes en een mond (met colliders)
-## Score: punten en Ultimate bar die je kan sparen als de enemies in 1 lijn gaan.
-## Doel: Zorg dat de vijanden niet de player raken en dat de vijanden allemaal weg zijn.
-
+### Bal: Een gloeiende cylinder die een laser hoort te zijn.
+### Targets / Bumps: Balletjes met kleine oortjes en een mond (met colliders)
+### Score: punten en Ultimate bar die je kan sparen als de enemies in 1 lijn gaan.
+### Doel: Zorg dat de vijanden niet de player raken en dat de vijanden allemaal weg zijn.
 
 <br>
+
 # Stijl en sfeer  
+
+### Ruimte achtergrond met sterretjes, spannend muziek en laser geluiden met een "splat" sound wanneer je een vijand verslaat.
+
 <br>
 
-## Ruimte achtergrond met sterretjes, spannend muziek en laser geluiden met een "splat" sound wanneer je een vijand verslaat.
-
-<br>
 # Structuur van het level  
+
+### Bovenaan: De vijanden die langzaam naar beneden gaan.
+### Midden: Een lege ruimte waar de vijanden naartoe gaat als je te lang doet met het verslaan.
+### Onderaan: De player en een "mothership" waar de player oorsprongelijk uitging om te vechten.
+
 <br>
 
-## Bovenaan: De vijanden die langzaam naar beneden gaan.
-## Midden: Een lege ruimte waar de vijanden naartoe gaat als je te lang doet met het verslaan.
-## Onderaan: De player en een "mothership" waar de player oorsprongelijk uitging om te vechten.
-
-<br>
 # Wekelijkse voortgang en reflectie  
-<br>
 
-## Hier noteer ik wat ik heb gemaakt over de weken.
+### Hier noteer ik wat ik heb gemaakt over de weken.
 
-<br>
+
 # Week 1:  
-<br>
+
