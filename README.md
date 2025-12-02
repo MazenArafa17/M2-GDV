@@ -19,7 +19,6 @@ Gif voor werking:
 
 
 Link naar scripts:
-
 [Target](Opdracht2.1/Target.cs)
 [CameraFollow](Opdracht2.1/CameraFollow.cs)
 [BoxSpin](Opdracht2.1/BoxSpin.cs)
